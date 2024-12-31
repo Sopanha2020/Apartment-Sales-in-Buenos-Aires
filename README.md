@@ -4,7 +4,7 @@
 The real estate market is a crucial aspect of any economy and understanding the factors that impact property prices can be of immense value to both buyers and sellers. The purpose of this project is to create a predictive model that estimates the prices of apartments based on various features such as surface covered, location, and borough. This project is focused on predictive data science and aims to provide insights into the real estate market.
 
 ## Data
-The data used in this project was obtained from open sources and contains information on properties. The data was split into 5 CSV files and was pre-processed to remove any missing or irrelevant information. The main columns of interest after the cleaning process include:
+The data used in this project was obtained from open sources and contains information on properties. The data was pre-processed to remove any missing or irrelevant information. The main columns of interest after the cleaning process include:
 
 * Price
 * Surface covered
