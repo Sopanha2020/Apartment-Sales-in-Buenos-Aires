@@ -1,4 +1,4 @@
-# work-ds-curriculum-020-housing-in-buenos-aires
+# work-ds-curriculum-020-Apartment-Sales-in-Buenos-Aires
 
 ## Purpose
 The real estate market is a crucial aspect of any economy and understanding the factors that impact property prices can be of immense value to both buyers and sellers. The purpose of this project is to create a predictive model that estimates the prices of apartments based on various features such as surface covered, location, and borough. This project is focused on predictive data science and aims to provide insights into the real estate market.
